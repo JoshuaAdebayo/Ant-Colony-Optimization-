@@ -1,4 +1,4 @@
-# ECM3412 - Ant Colony Optimization exercise by Joshua Adebayo
+# ECM3412 - Ant Colony Optimization exercise 
 
 ## Description
 
